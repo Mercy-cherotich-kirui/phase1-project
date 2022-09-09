@@ -1,0 +1,36 @@
+{
+    "donorsDetails": [
+        {
+            "id": 1,
+            "donors name": "Utalii tojo",
+            "type of contribution": "clothes",
+            "donors address": "ruiru",
+            "date of donation": "2/2/22",
+            "status": "donated"
+        },
+        {
+            "id": 2,
+            "donors name": "Zambezi sunday",
+            "type of contribution": "financial",
+            "donors address": "elgon",
+            "date of donation": "1/3/22",
+            "status": "pledged"
+        },
+        {
+            "id": 3,
+            "donors name": "Nile d",
+            "type of contribution": "books",
+            "donors address": "kilimani",
+            "date of donation": "7/5/22",
+            "status": "donated"
+        },
+        {
+            "id": 4,
+            "donors name": "Molo nzoia",
+            "type of contribution": "financial",
+            "donors address": "karen",
+            "date of donation": "20/6/22",
+            "status": "donated"
+        }
+    ]
+}
